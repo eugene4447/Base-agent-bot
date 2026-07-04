@@ -1,0 +1,7 @@
+web3
+Flask
+requests
+beautifulsoup4
+pyTelegramBotAPI
+groq
+lxml
